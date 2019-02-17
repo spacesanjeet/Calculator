@@ -1,6 +1,4 @@
-Calculator
-==========
-# A calculator made with python.
+<h1><center>Calculator</center></h1>
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
 <br><br>
